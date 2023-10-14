@@ -6,7 +6,7 @@ on:
 env:
   SERVER_HOST: 83.69.230.9
   SERVER_USER: vh112866
-  SERVER_PATH: /var/www/events_usr/data/www/events.vendorteam.ru
+  SERVER_PATH: /var/www/vh112866/data/www/ddrcms.shopdevelop.ru 
 
 jobs:
 
